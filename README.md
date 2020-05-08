@@ -12,3 +12,6 @@
     <li>compare the best case scenario for each day and return the final result as the answer</li>
 </ol>
 
+<h2>Assignment Review</h2>
+<p>Time Taken: 1 hour in 1 day</p>
+<p>The problem itself was pretty simple, not much problems there. I can feel myself getting more and more efficient as I familiarize myself with the syntactical intricacies and unique interactions of ruby compared to python or C++. All in all, quite a breeze through this project.</p>
